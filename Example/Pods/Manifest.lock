@@ -1,0 +1,16 @@
+PODS:
+  - HT_AESCypt (0.1.0)
+
+DEPENDENCIES:
+  - HT_AESCypt (from `../`)
+
+EXTERNAL SOURCES:
+  HT_AESCypt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HT_AESCypt: 33ce10513aee16a57f7b4fe3aceb3fdc5e7d9204
+
+PODFILE CHECKSUM: 2609741dfed46d4cbf74055ede5679497faefdd5
+
+COCOAPODS: 1.1.1

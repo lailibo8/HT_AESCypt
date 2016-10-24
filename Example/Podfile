@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HT_AESCypt_Example' do
+  pod 'HT_AESCypt', :path => '../'
+
+  target 'HT_AESCypt_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

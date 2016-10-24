@@ -1,0 +1,6 @@
+framework module HT_AESCypt {
+  umbrella header "HT_AESCypt-umbrella.h"
+
+  export *
+  module * { export * }
+}

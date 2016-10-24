@@ -1,0 +1,6 @@
+framework module Pods_HT_AESCypt_Example {
+  umbrella header "Pods-HT_AESCypt_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
